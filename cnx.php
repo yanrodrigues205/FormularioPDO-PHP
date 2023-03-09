@@ -1,4 +1,5 @@
 <?php
+//CONEXAO
 try{
     $user = 'root';
     $pass = '';
